@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Hash Table
 |  |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
