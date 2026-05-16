@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aatifkhan786/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/aatifkhan786/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aatifkhan786/LEETCODE/tree/master/0496-next-greater-element-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aatifkhan786/LEETCODE/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
