@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
 | [0496-next-greater-element-i](https://github.com/aatifkhan786/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0867-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
