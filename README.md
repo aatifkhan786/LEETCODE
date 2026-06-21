@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
