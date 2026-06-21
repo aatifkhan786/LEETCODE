@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/aatifkhan786/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aatifkhan786/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aatifkhan786/LEETCODE/tree/master/0344-reverse-string) |
