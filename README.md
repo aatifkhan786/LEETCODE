@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aatifkhan786/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/aatifkhan786/LEETCODE/tree/master/0048-rotate-image) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/aatifkhan786/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
