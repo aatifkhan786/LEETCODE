@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/aatifkhan786/LEETCODE/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/aatifkhan786/LEETCODE/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/aatifkhan786/LEETCODE/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
