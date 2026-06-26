@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/aatifkhan786/LEETCODE/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aatifkhan786/LEETCODE/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aatifkhan786/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/aatifkhan786/LEETCODE/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0680-valid-palindrome-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aatifkhan786/LEETCODE/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aatifkhan786/LEETCODE/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
