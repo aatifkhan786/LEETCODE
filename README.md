@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aatifkhan786/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aatifkhan786/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aatifkhan786/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
 |  |
 | ------- |
