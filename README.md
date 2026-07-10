@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/aatifkhan786/LEETCODE/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/aatifkhan786/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aatifkhan786/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aatifkhan786/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/aatifkhan786/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aatifkhan786/LEETCODE/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0541-reverse-string-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aatifkhan786/LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/aatifkhan786/LEETCODE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/aatifkhan786/LEETCODE/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aatifkhan786/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
