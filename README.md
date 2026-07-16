@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aatifkhan786/LEETCODE/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aatifkhan786/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aatifkhan786/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aatifkhan786/LEETCODE/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aatifkhan786/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
