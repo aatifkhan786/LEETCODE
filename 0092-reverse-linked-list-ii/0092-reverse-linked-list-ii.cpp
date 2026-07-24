@@ -47,7 +47,7 @@ public:
         temp=head;
         i=0;
         while(temp!=NULL){
-            if(!st.empty() && i>left-2 && i<right){
+            if(!st.empty() && i>=left-1 && i<right){
                 temp->val=st.top();
                 cout<<st.top();
                 st.pop();
