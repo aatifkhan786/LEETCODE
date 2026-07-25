@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aatifkhan786/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aatifkhan786/LEETCODE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aatifkhan786/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aatifkhan786/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aatifkhan786/LEETCODE/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0541-reverse-string-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/aatifkhan786/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aatifkhan786/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
