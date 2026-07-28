@@ -26,14 +26,14 @@ public:
             temp = temp->next;
         }
 
-        int n = arr.size();
-        k = k % n;
+        // int n = arr.size();
+        // k = k % n;
 
-        vector<int> ans(n);
+        vector<int> ans(arr.size());
 
         // Right Rotate
-        for (int i = 0; i < n; i++) {
-            ans[(i + k) % n] = arr[i];
+        for (int i = 0; i < arr.size(); i++) {
+            ans[(i + k) % arr.size()] = arr[i];
         }
 
         // Array -> Linked List
