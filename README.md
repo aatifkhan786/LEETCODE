@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aatifkhan786/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aatifkhan786/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/aatifkhan786/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/aatifkhan786/LEETCODE/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aatifkhan786/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/aatifkhan786/LEETCODE/tree/master/0707-design-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
