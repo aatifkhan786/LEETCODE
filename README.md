@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/aatifkhan786/LEETCODE/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/aatifkhan786/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aatifkhan786/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aatifkhan786/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/aatifkhan786/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aatifkhan786/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aatifkhan786/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aatifkhan786/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## String
 |  |
 | ------- |
