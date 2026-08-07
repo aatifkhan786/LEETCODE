@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/aatifkhan786/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aatifkhan786/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/aatifkhan786/LEETCODE/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/aatifkhan786/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aatifkhan786/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aatifkhan786/LEETCODE/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aatifkhan786/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0977-squares-of-a-sorted-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/aatifkhan786/LEETCODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Counting Sort
 |  |
 | ------- |
