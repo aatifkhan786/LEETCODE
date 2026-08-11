@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aatifkhan786/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/aatifkhan786/LEETCODE/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/aatifkhan786/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aatifkhan786/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aatifkhan786/LEETCODE/tree/master/0344-reverse-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aatifkhan786/LEETCODE/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/aatifkhan786/LEETCODE/tree/master/0867-transpose-matrix) |
 ## Binary Search
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/aatifkhan786/LEETCODE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aatifkhan786/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aatifkhan786/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/aatifkhan786/LEETCODE/tree/master/0204-count-primes) |
